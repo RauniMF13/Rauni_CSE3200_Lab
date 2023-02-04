@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Lab 1</string>
+    <string name="true_button">Verdadeiro</string>
+    <string name="false_button">Falso</string>
+    <string name="greeting">Ola mundo!</string>
+</resources>
